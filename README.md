@@ -23,3 +23,9 @@ Application interactive construite en Python pour la tarification d'options fina
    ```bash
    git clone [https://github.com/votre-nom-d-utilisateur/black-scholes-portfolio-manager.git](https://github.com/votre-nom-d-utilisateur/black-scholes-portfolio-manager.git)
    cd black-scholes-portfolio-manager
+2. **Installer les dépendances :**
+   ```bash
+   pip install -r requirements.txt
+3. **Lancer l'application Streamlit :**
+   ```bash
+   streamlit run PricerappV2.py
